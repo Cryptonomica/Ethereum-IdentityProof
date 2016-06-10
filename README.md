@@ -33,4 +33,6 @@ Solidity Browser-Based Compiler:
 
 [Verificator.sol](https://ethereum.github.io/browser-solidity/#gist=f00e9b425c00531daee2df1728f72d6a&version=soljson-latest.js&optimize=true)
 
+To test functionality you can check verification for: 
+0x3b24D5ce666bF060900989E9Bd4E511b7a201AdA
 
