@@ -1,6 +1,6 @@
 # Ethereum Identity Proof
 
-Smart contract for Ethereum's account owner verification using Cryptonomica.net
+Smart contract for Ethereum's account owner verification using Cryptonomica.net notary verified OpenPGP public key.
 
 ### Usage:
 
