@@ -20,7 +20,7 @@ GET https://cryptonomica-server.appspot.com/_ah/api/pgpPublicKeyAPI/v1/getPGPPub
 
 This smart contract deployed on Ehtereum blockchain at:
 
-0xa60df04F73c2c92542ACc86D178B9fc212F7919b
+[0xa60df04F73c2c92542ACc86D178B9fc212F7919b](https://etherscan.io/address/0xa60df04f73c2c92542acc86d178b9fc212f7919b)
 
 Interface:
 
