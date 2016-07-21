@@ -10,7 +10,7 @@ Smart contract for Ethereum's account owner verification using Cryptonomica.net 
 
 3.Account owner signs this string with his OpenPGP key and sends back to smart-contract.
 
-4. Information about verification is public visible - who needs to chech can download verified public key from cryptonomica.net and check if owner of stated Ehereum acconts is also known owner of verified OpenPGP key on cryptonomica.net
+4.Information about verification is public visible - who needs to chech can download verified public key from cryptonomica.net and check if owner of stated Ehereum acconts is also known owner of verified OpenPGP key on cryptonomica.net
 
 It's also possible to create a web-inerface using Cryptonomica's API like:
 
